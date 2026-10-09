@@ -71,7 +71,7 @@ The all-in-one SMB CRM market spans **CRM-led suites** (Salesforce Pro Suite, Zo
 
 ## 🔓 Open-Source GitHub Projects 💻
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Twenty](https://github.com/twentyhq/twenty)** [![Stars](https://img.shields.io/github/stars/twentyhq/twenty?style=social&color=white)](https://github.com/twentyhq/twenty/stargazers)  
   **Modern open-source CRM with maximum flexibility**, AGPL-3.0 licensed. Built with **TypeScript, React, and GraphQL** — modern architecture designed as a self-hostable alternative to Salesforce. Feature-rich data modeling, Kanban boards, and extensible API. ⚡
@@ -123,7 +123,7 @@ Contributions are welcome! Follow these steps to submit new SMB CRM platforms or
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star count badge, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Count badge, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
